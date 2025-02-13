@@ -1,4 +1,4 @@
-# UCEC ITGB
+# UCEC-ITGB
 ## 已经完成
 
 `ITG.py`
